@@ -6,50 +6,42 @@ function generateMarkdown(data) {
 ${data.description}
   
   
-  ## Table of Contents (Optional)
-  
-  If your README is very long, add a table of contents to make it easy for users to find what they need.
+  ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
+  * [Badges](#badges)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Contact](#contact)
   
   
   ## Installation
 ${data.installation}
   
-  
   ## Usage 
-  
 ${data.usage}
-  
   
   ## Credits
 ${data.credits}
   
   ## License
-  
 ${data.license}
-
   
   ## Badges
-  
 ${data.badges}
   
   ## Contributing
-  
 ${data.contributing}
   
   ## Tests
-  
 ${data.test}
   
-  
-## Questions
+## Contact
   ${data.githubProfile}
   ${data.email}
-
 `;
 }
 

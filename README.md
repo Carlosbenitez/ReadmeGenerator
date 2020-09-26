@@ -1,50 +1,43 @@
-# Test App
+# Test Readme Title
+![](Demo/Demo.gif)
 
   ## Description 
-This is a test of how this readme generator will work
+This is a test to see if my readme generator is working properly
   
   
-  ## Table of Contents (Optional)
-  
-  If your README is very long, add a table of contents to make it easy for users to find what they need.
+  ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
+  * [Badges](#badges)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Contact](#contact)
   
   
   ## Installation
-No need to install
-  
+No need to install anything just use node
   
   ## Usage 
-  
-To generate a professional readme
-  
+This application is used to easily generate a readme
   
   ## Credits
-My tutor Phil Loy and possibly my TA Leigh Tracey
+I would like to give credit to my tutor Phil Loy and my TAs
   
   ## License
-  
 None
-
   
   ## Badges
-  
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
+I don't have any ready
   
   ## Contributing
-  
-No
+Not at the moment
   
   ## Tests
+None, just test in Node
   
-This is the test (inception)
-  
-  
-## Questions
-  Carlosbenitez
+## Contact
+  CarlosBenitez
   carlosbenitez86753@yahoo.com
-
